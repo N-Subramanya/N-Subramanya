@@ -74,7 +74,7 @@ open_to: collaborating on DevOps / Cloud learning and teaching
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/N-Subramanya/terraform-ado-multicloud">☁️ terraform-ado-multicloud</a></h3>
-      <p>Multi-cloud IaC (Azure + AWS) delivered through Azure DevOps multi-stage pipelines:
+      <p>Multi-cloud IaC: <b>AKS</b> on Azure and <b>ALB + Auto Scaling</b> on AWS, delivered through Azure DevOps multi-stage pipelines:
       <b>validate → scan → plan → approve → apply</b>, with keyless auth (workload identity federation / OIDC).</p>
       <p>
         <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
@@ -82,7 +82,7 @@ open_to: collaborating on DevOps / Cloud learning and teaching
         <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure">
         <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
       </p>
-      <img src="https://img.shields.io/badge/status-in_progress-yellow?style=flat-square" alt="In progress">
+      <img src="https://img.shields.io/badge/status-live-brightgreen?style=flat-square" alt="Live">
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/N-Subramanya/azure-agentic-travel-planner">🧳 Agentic AI Travel Planner</a></h3>
