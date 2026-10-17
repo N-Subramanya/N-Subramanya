@@ -85,7 +85,7 @@ open_to: collaborating on DevOps / Cloud learning and teaching
       <img src="https://img.shields.io/badge/status-in_progress-yellow?style=flat-square" alt="In progress">
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/N-Subramanya/azure-rag-travel-assistant">🧳 Agentic AI Travel Planner</a></h3>
+      <h3><a href="https://github.com/N-Subramanya/azure-agentic-travel-planner">🧳 Agentic AI Travel Planner</a></h3>
       <p>A GPT-4.1 <b>agent</b> that decides when to search travel brochures (Azure AI Search), check live weather and estimate budgets,
       then plans the trip with citations and chat memory. Also includes a classic RAG mode. Ships to App Service through an Azure DevOps YAML pipeline.</p>
       <p>
