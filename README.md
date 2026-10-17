@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=N-Subramanya&style=flat-square&color=6366f1&label=Profile+views" alt="Profile views">
   <a href="https://github.com/N-Subramanya?tab=followers"><img src="https://img.shields.io/github/followers/N-Subramanya?style=flat-square&color=22d3ee&label=Followers" alt="Followers"></a>
 </p>
 
@@ -25,7 +24,6 @@ focus:
   - Infrastructure as Code with Terraform (Azure + AWS)
   - Containers & Kubernetes
   - AIOps & Agentic AI for operations
-currently_building: terraform-ado-multicloud
 open_to: collaborating on DevOps / Cloud learning and teaching
 ```
 
