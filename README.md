@@ -85,10 +85,11 @@ open_to: collaborating on DevOps / Cloud learning and teaching
       <img src="https://img.shields.io/badge/status-in_progress-yellow?style=flat-square" alt="In progress">
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/N-Subramanya/azure-rag-travel-assistant">🧳 azure-rag-travel-assistant</a></h3>
-      <p>Retrieval-Augmented Generation on Azure: AI Search retrieves from travel brochures, and
-      <b>GPT-4.1 answers with citations</b>. Runs as Flask on App Service and ships through an Azure DevOps YAML pipeline with a smoke test.</p>
+      <h3><a href="https://github.com/N-Subramanya/azure-rag-travel-assistant">🧳 Agentic AI Travel Planner</a></h3>
+      <p>A GPT-4.1 <b>agent</b> that decides when to search travel brochures (Azure AI Search), check live weather and estimate budgets,
+      then plans the trip with citations and chat memory. Also includes a classic RAG mode. Ships to App Service through an Azure DevOps YAML pipeline.</p>
       <p>
+        <img src="https://img.shields.io/badge/Agentic_AI-8B5CF6?style=flat-square" alt="Agentic AI">
         <img src="https://img.shields.io/badge/Azure_OpenAI-10A37F?style=flat-square&logo=openai&logoColor=white" alt="Azure OpenAI">
         <img src="https://img.shields.io/badge/AI_Search-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure AI Search">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
