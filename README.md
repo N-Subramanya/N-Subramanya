@@ -85,14 +85,16 @@ open_to: collaborating on DevOps / Cloud learning and teaching
       <img src="https://img.shields.io/badge/status-in_progress-yellow?style=flat-square" alt="In progress">
     </td>
     <td width="50%" valign="top">
-      <h3>☸️ k8s-gitops-platform</h3>
-      <p>GitOps platform on Kubernetes: Helm charts, Argo CD app-of-apps, Prometheus, Grafana and Loki, plus an autoscaling demo app.</p>
+      <h3><a href="https://github.com/N-Subramanya/azure-rag-travel-assistant">🧳 azure-rag-travel-assistant</a></h3>
+      <p>Retrieval-Augmented Generation on Azure: AI Search retrieves from travel brochures, and
+      <b>GPT-4.1 answers with citations</b>. Runs as Flask on App Service and ships through an Azure DevOps YAML pipeline with a smoke test.</p>
       <p>
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
-        <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="Argo CD">
-        <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm">
+        <img src="https://img.shields.io/badge/Azure_OpenAI-10A37F?style=flat-square&logo=openai&logoColor=white" alt="Azure OpenAI">
+        <img src="https://img.shields.io/badge/AI_Search-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure AI Search">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" alt="Azure DevOps">
       </p>
-      <img src="https://img.shields.io/badge/status-coming_soon-lightgrey?style=flat-square" alt="Coming soon">
+      <img src="https://img.shields.io/badge/status-live-brightgreen?style=flat-square" alt="Live">
     </td>
   </tr>
   <tr>
@@ -107,12 +109,12 @@ open_to: collaborating on DevOps / Cloud learning and teaching
       <img src="https://img.shields.io/badge/status-coming_soon-lightgrey?style=flat-square" alt="Coming soon">
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ devsecops-ci-cd</h3>
-      <p>End-to-end DevSecOps pipeline: Docker build, Trivy and SonarQube scans, push to ACR, and deploy to AKS.</p>
+      <h3>☸️ k8s-gitops-platform</h3>
+      <p>GitOps platform on Kubernetes: Helm charts, Argo CD app-of-apps, Prometheus, Grafana and Loki, plus an autoscaling demo app.</p>
       <p>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-        <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square" alt="Trivy">
-        <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" alt="SonarQube">
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
+        <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="Argo CD">
+        <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm">
       </p>
       <img src="https://img.shields.io/badge/status-coming_soon-lightgrey?style=flat-square" alt="Coming soon">
     </td>
