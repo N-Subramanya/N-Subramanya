@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1020"/>
+      <stop offset="50%" stop-color="#1e1b4b"/>
+      <stop offset="100%" stop-color="#0c4a6e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#818cf8"/>
+      <stop offset="50%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#34d399"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#ffffff" stroke-opacity="0.045"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#bg)"/>
+  <rect width="1200" height="280" fill="url(#grid)"/>
+  <circle cx="1080" cy="40" r="150" fill="#818cf8" opacity="0.16"/>
+  <circle cx="960" cy="270" r="120" fill="#22d3ee" opacity="0.14"/>
+
+  <text x="600" y="112" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#ffffff">Subramanya N</text>
+  <text x="600" y="158" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="300" fill="#c7d2fe" letter-spacing="1">DevOps  ·  Cloud  ·  Platform  ·  Agentic AI</text>
+  <rect x="450" y="178" width="300" height="4" rx="2" fill="url(#accent)"/>
+
+  <!-- pipeline motif -->
+  <g font-family="Consolas, Menlo, monospace" font-size="15" fill="#e0e7ff">
+    <line x1="290" y1="228" x2="910" y2="228" stroke="#475569" stroke-width="2"/>
+    <g>
+      <circle cx="290" cy="228" r="7" fill="#818cf8"/><text x="290" y="256" text-anchor="middle">code</text>
+      <circle cx="414" cy="228" r="7" fill="#818cf8"/><text x="414" y="256" text-anchor="middle">build</text>
+      <circle cx="538" cy="228" r="7" fill="#22d3ee"/><text x="538" y="256" text-anchor="middle">scan</text>
+      <circle cx="662" cy="228" r="7" fill="#22d3ee"/><text x="662" y="256" text-anchor="middle">plan</text>
+      <circle cx="786" cy="228" r="7" fill="#34d399"/><text x="786" y="256" text-anchor="middle">deploy</text>
+      <circle cx="910" cy="228" r="7" fill="#34d399"/><text x="910" y="256" text-anchor="middle">observe</text>
+    </g>
+    <circle cy="228" r="5" fill="#ffffff">
+      <animate attributeName="cx" values="290;910" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
