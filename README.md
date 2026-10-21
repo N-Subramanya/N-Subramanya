@@ -120,6 +120,20 @@ open_to: collaborating on DevOps / Cloud learning and teaching
       <img src="https://img.shields.io/badge/status-coming_soon-lightgrey?style=flat-square" alt="Coming soon">
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/N-Subramanya/devops-30-days">📅 devops-30-days</a></h3>
+      <p>A 30-day <b>learn-in-public</b> DevOps series: one topic, one diagram and one hands-on build per day.
+      Day 01: <b>observability baseline</b>, covering metrics → logs → traces → alerts → incident and a service observability map.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Observability-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Observability">
+        <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry">
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
+      </p>
+      <img src="https://img.shields.io/badge/progress-day_1%2F30-818CF8?style=flat-square" alt="Day 1 of 30">
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 ## 🐍 Contribution Activity
