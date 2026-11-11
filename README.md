@@ -136,7 +136,8 @@ open_to: collaborating on DevOps / Cloud learning and teaching
     <td width="50%" valign="top">
       <h3><a href="https://github.com/N-Subramanya/mcp-for-devops">🔌 mcp-for-devops</a></h3>
       <p>Hands-on <b>Model Context Protocol</b> projects that connect AI agents to real infrastructure.
-      Each one includes an architecture diagram, copy-paste setup, a real demo run and safety guardrails. See <a href="#-mcp-projects">MCP Projects</a> below.</p>
+      Each one includes an architecture diagram, copy-paste setup, a real demo run and safety guardrails.</p>
+      <p><b>Latest:</b> <a href="https://github.com/N-Subramanya/mcp-for-devops/tree/main/01-kubernetes-mcp-eks">☸️ Kubernetes MCP + Claude Code on EKS</a>. Claude Code deploys nginx, diagnoses a <code>Pending</code> pod (<i>Too many pods</i>) and returns a live endpoint.</p>
       <p>
         <img src="https://img.shields.io/badge/MCP-8B5CF6?style=flat-square" alt="MCP">
         <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code">
@@ -144,35 +145,6 @@ open_to: collaborating on DevOps / Cloud learning and teaching
         <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
       </p>
       <img src="https://img.shields.io/badge/projects-1-818CF8?style=flat-square" alt="1 project">
-    </td>
-  </tr>
-</table>
-
-## 🔌 MCP Projects
-
-AI agents that operate real infrastructure through the **Model Context Protocol**. I ask in plain English, the agent calls typed tools, and I approve every change.
-
-<table>
-  <tr>
-    <td width="45%" valign="top">
-      <h3><a href="https://github.com/N-Subramanya/mcp-for-devops/tree/main/01-kubernetes-mcp-eks">☸️ Kubernetes MCP + Claude Code on EKS</a></h3>
-      <p><b>Claude Code</b> (MCP client) drives an <b>Amazon EKS</b> cluster through the Kubernetes MCP server. It deploys nginx,
-      diagnoses a <code>Pending</code> pod (<i>FailedScheduling: Too many pods</i>), checks the fix after the node group scales, and returns a live NodePort endpoint.</p>
-      <p>
-        <b>Guardrails:</b> per-tool approval, read-only allowlist, <code>--read-only</code> mode, least-privilege IAM.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code">
-        <img src="https://img.shields.io/badge/Amazon_EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white" alt="Amazon EKS">
-        <img src="https://img.shields.io/badge/kubectl-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="kubectl">
-        <img src="https://img.shields.io/badge/eksctl-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="eksctl">
-      </p>
-      <img src="https://img.shields.io/badge/status-live-brightgreen?style=flat-square" alt="Live">
-    </td>
-    <td width="55%" valign="top">
-      <a href="https://github.com/N-Subramanya/mcp-for-devops/tree/main/01-kubernetes-mcp-eks">
-        <img src="https://raw.githubusercontent.com/N-Subramanya/mcp-for-devops/main/01-kubernetes-mcp-eks/architecture.svg" alt="Claude Code → Kubernetes MCP server → Amazon EKS architecture" width="100%">
-      </a>
     </td>
   </tr>
 </table>
